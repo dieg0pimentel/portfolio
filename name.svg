@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 361.13 192.48">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: FairfieldLTStd-Light, 'Fairfield LT Std';
+        font-weight: 300;
+      }
+
+      .cls-1, .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        font-size: 85.31px;
+      }
+
+      .cls-11 {
+        font-size: 80px;
+        letter-spacing: .03em;
+      }
+
+      .cls-11, .cls-7 {
+        font-family: TickerbitTest-italic, 'Tickerbit Test';
+        font-style: italic;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: BruliaTest-Display, 'Brulia Test';
+      }
+
+      .cls-12 {
+        fill: #0e00ff;
+      }
+
+      .cls-3, .cls-13 {
+        font-family: AeionMonoPERSONALUSETest-SemiBold, 'Aeion Mono PERSONAL USE Test';
+        font-weight: 600;
+      }
+
+      .cls-13 {
+        font-size: 84.67px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-5, .cls-14 {
+        font-family: PhluffTest-Regular, 'Phluff Test';
+      }
+
+      .cls-6, .cls-8, .cls-10 {
+        font-family: AeionMonoPERSONALUSETest-Regular, 'Aeion Mono PERSONAL USE Test';
+      }
+
+      .cls-14 {
+        font-size: 70px;
+      }
+
+      .cls-7 {
+        letter-spacing: .03em;
+      }
+
+      .cls-8 {
+        letter-spacing: .02em;
+      }
+
+      .cls-9 {
+        font-family: AdobeClean-Regular, 'Adobe Clean';
+      }
+
+      .cls-10 {
+        letter-spacing: -.09em;
+      }
+    </style>
+  </defs>
+  <text class="cls-12" transform="translate(71.64 76.78)"><tspan class="cls-11" x="0" y="0">D</tspan><tspan class="cls-1" x="52.4" y="0">i</tspan><tspan class="cls-6" x="71.08" y="0">e</tspan><tspan class="cls-2" x="122.27" y="0">g</tspan><tspan class="cls-13" x="167.05" y="0">o</tspan><tspan class="cls-4" x="217.85" y="0"> </tspan><tspan class="cls-14" x="-69.46" y="90">P</tspan><tspan class="cls-9" x="-19.97" y="90">i</tspan><tspan class="cls-8" x="-.77" y="90">m</tspan><tspan class="cls-2" x="52.12" y="90">e</tspan><tspan class="cls-10" x="95.62" y="90">n</tspan><tspan class="cls-7" x="139.13" y="90">t</tspan><tspan class="cls-5" x="184.34" y="90">e</tspan><tspan class="cls-3" x="236.13" y="90">l</tspan></text>
+</svg>
