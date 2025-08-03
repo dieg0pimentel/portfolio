@@ -1,15 +1,17 @@
 body {
-  cursor: url('https://imgur.com/vIFRJFk.png') 16 16, auto;
+  cursor: url('https://imgur.com/9Zxifjl.png') 16 16, auto;
 }
 
 
 
 .title{
-  font-family: helvetica;
+    display: block;
+  text-align: center;
+  padding: 30px;
+  margin-right: 55px;
+  margin:
+
   
-  font-size: 30px;
-  padding: 5px, 10px;
-  color: black;
 }
 
 .navbar {
@@ -24,11 +26,14 @@ list-style:none;
   padding:0;
   display:flex;
   justify-content: center;
+  gap: 3em;
   
 }
 
 .navbar ul li { 
- margin-right: 1.6em;  
+  display:flex;
+    justify-content: center;
+ gap: 4em;  
   list-style:none; 
 }
 
@@ -43,14 +48,21 @@ list-style:none;
 
 
 
+.navbar ul li {
+  position: relative;
+}
+
+
 .navbar ul li ul {
- display: none;
-  position: absolute;
-  left: 682px;
-  line-height: 1.8;
-  padding: 0.5em 1em;
-  color: black;
   display: none;
+  position: absolute;
+  top: 100%;         
+  left: 0;           
+  background: white;
+  padding: 0.5em 1em;
+  line-height: 1.5;
+  z-index: 999;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .navbar ul li a:hover {
@@ -59,9 +71,4 @@ list-style:none;
 
 .navbar ul li:hover > ul {
   display: block;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
 }
