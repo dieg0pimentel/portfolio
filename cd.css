@@ -1,0 +1,95 @@
+body {
+  cursor: url('https://imgur.com/9Zxifjl.png') 16 16, auto;
+}
+
+
+
+.title{
+    display: block;
+  text-align: center;
+  padding: 30px;
+  margin-right: 55px;
+  margin:
+
+  
+}
+
+.navbar {
+  font-family: helvetica;
+  font-size: 18px;
+  
+}
+
+.navbar > ul{ 
+list-style:none; 
+  margin:0;
+  padding:0;
+  display:flex;
+  justify-content: center;
+  gap: 3em;
+  
+}
+
+.navbar ul li { 
+  display:flex;
+    justify-content: center;
+ gap: 4em;  
+  list-style:none; 
+}
+
+.navbar ul li a {
+  
+  color: black;
+  position: relative;
+  text-decoration:none;
+  padding: 0px ;
+  display: block;
+}
+
+
+
+.navbar ul li {
+  position: relative;
+}
+
+
+.navbar ul li ul {
+  display: none;
+  position: absolute;
+  top: 100%;         
+  left: 0;           
+  background: white;
+  padding: 0.5em 1em;
+  line-height: 1.5;
+  z-index: 999;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar ul li a:hover {
+  color: blue;
+}
+
+.navbar ul li:hover > ul {
+  display: block;
+}
+
+
+  
+  
+
+.image-grid{
+  display:flex;
+  flex-direction:column;
+  padding:0px;
+  gap:40px;
+  overflow-y:auto;
+  
+}
+
+.image-grid img{
+  display: block;
+  margin: 0 auto;
+  width:90%
+
+  
+}
