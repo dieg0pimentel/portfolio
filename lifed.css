@@ -95,7 +95,7 @@ list-style:none;
 
 @media (min-width: 768px) {
   .image-grid img {
-    width: 60%; /* For tablets and desktops */
+    width: 50%; /* For tablets and desktops */
   }
 }
     
